@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+.swarm
+.claude-flow
+.claude
+docs/
+CLAUDE.md
+.mcp.json
+ruvector.db
